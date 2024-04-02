@@ -1,0 +1,687 @@
+/*body {
+
+   background-color: black;
+
+}
+
+h1 {
+
+    color: white;
+
+}
+
+ p {
+    color: white;
+}
+
+#p1 {
+
+  color: red;
+
+}
+
+#p2 {
+
+   color: blue;
+
+}
+
+#p3 {
+
+   color: chartreuse;
+
+}
+
+#p4 {
+
+   color: violet;
+
+} */
+
+/* .q {
+
+    color: crimson;
+
+}
+
+.p {
+
+    color: greenyellow;
+
+} 
+
+body {
+  background-color: purple;  named color
+  color: rgb(5, 240, 224); rgb color
+  color: #05f0e0; hexadecimal color
+  background-color: hsl(15, 65%, 18%); hsl color
+}
+
+
+
+h1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p {
+
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 0.8em;
+   font-weight: bold;
+   font-style: italic;
+} 
+
+
+h1 {
+
+    /* border-style: solid; */
+/* border-style: dashed; */
+/* border-style: dotted; */
+/* border-style: double; */
+/* border-style: inset; */
+/* border-style: outset; */
+
+/* border-style: solid;
+    border-width: 5px;
+    border-color: hsla(358, 99%, 47%); 
+     
+    border-radius: 10px;
+}
+
+
+p {
+  border-bottom: 3px solid blue;
+  border-top: 3px dotted greenyellow;
+  border-left: 3px double violet;
+  border-right: 3px dashed crimson;
+  /* border: 3px solid blue; 
+  border-radius: 5px; 
+
+}
+
+
+
+h1 {
+
+   text-shadow: 1px 1px 2px lawngreen, -2px -2px 2px lightskyblue;
+
+}
+
+#box1 {
+
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  box-shadow: 3px 3px 5px rebeccapurple;
+
+} 
+
+
+body {
+
+  margin: 0px;
+
+}
+
+.box {
+
+   border: 5px solid;
+   font-size: 4em;
+   width: 250px;
+   height: 250px;
+   /* margin: 50px; 
+   margin: auto;
+}
+
+#box1 {
+
+   background-color: lightcoral;
+   /* margin-top: 50px; */
+/* margin-bottom: 50px; */
+/* margin-left: 50px; */
+/* margin-right: 50px; */
+/* margin: 50px; */
+/* margin-left: auto; */
+/* margin: auto; 
+}
+
+#box2 {
+
+   background-color: lightsteelblue;
+    margin-left: auto;
+
+}
+
+
+
+ body {
+
+   border: 3px solid;
+   display: flow-root;
+
+ }
+
+ #img1 {
+
+   float: left;
+   /* float: right;
+   margin-right: 10px;
+
+ }
+
+ #img2 {
+
+   float: right;
+   margin-left: 10px;
+   
+ }  
+
+
+
+ div {
+
+   border: 2px solid;
+   height: 75px;
+   /* overflow: visible; 
+   /* overflow: hidden; 
+   /* overflow: scroll; 
+   overflow: auto;
+   
+ }
+
+
+
+ div {
+
+   background-color: blue;
+   width: 100px;
+   height: 100px;
+   /* display: block; */
+/* display: inline; */
+/* display: inline-block; */
+/* display: none;
+    display: inline-block;
+    visibility: hidden;
+ }
+
+ span {
+
+   background-color: tomato;
+   width: 100px;
+   height: 100px;
+   /* display: block; */
+/* display: inline; */
+/* display: inline-block; */
+/* display: none;
+   display: inline-block;
+   visibility: hidden;
+ }
+  
+
+
+  #box1 {
+
+     width: 200px;
+     height: 200px;
+     background-color: lightcoral;
+     /* position: relative; */
+/* top: 100px;
+     left: 100px; */
+/* position: fixed; */
+/* right: 0px;
+    top: 300px; */
+/* bottom: 0px; 
+    position: sticky;
+    top: 0px;
+
+  }
+
+  /* #box2 {
+
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    position: static;
+    top: 0px;
+
+  } */
+
+/* #box2 {
+
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    /* position: relative; */
+/* top: 100px;
+    left: 100px; */
+/* position: fixed; */
+/* right: 0px;
+   top: 300px; */
+/* bottom: 0px; */
+/* position: absolute;
+   right: 50px;
+   top: 50px; 
+  
+   
+
+ }
+
+ #box3 {
+
+  width: 50px;
+  height: 50px;
+  background-color: lightblue;
+  /* position: relative; */
+/* top: 100px;
+  left: 100px; */
+/* position: fixed; */
+/* right: 0px;
+ top: 300px; */
+/* bottom: 0px; */
+/* position: relative;
+ left: 25px;
+ top: 20px; 
+ 
+
+}
+
+#box4 {
+
+  width: 25px;
+  height: 25px;
+  background-color: lightseagreen;
+  /* position: relative; 
+  /* top: 100px;
+  left: 100px; */
+/* position: fixed; */
+/* right: 0px;
+ top: 300px; */
+/* bottom: 0px; */
+/* position: relative;
+ left: 12px;
+ top: 10px; 
+
+} 
+
+
+
+body {
+
+  background-image: url(./Images/background1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+
+a:link {
+
+text-decoration: none;
+
+}
+
+a:hover {
+
+  color: rgb(37, 202, 11);
+  font-size: 1.5em;
+}
+
+
+li:hover {
+
+  background-color: greenyellow;
+
+}
+
+li:not(:hover) {
+
+  background-color: rgb(161, 162, 159);
+
+} 
+
+li:nth-child() {
+
+  background-color: greenyellow;
+
+} 
+
+#greet p {
+
+  background-color: lightblue;
+  padding: 10px;
+  display: none;
+}
+
+#greet:hover p {
+
+  display: block;
+
+} 
+
+h1::first-letter {
+  font-size: 2em;
+  font-style: italic;
+}
+
+p::first-line {
+  background-color: greenyellow;
+}
+
+p::selection {
+  color: green;
+  background-color: lightcoral;
+}
+
+/* #fruits li::before {
+  content: "✅";
+} 
+
+#apple::after {
+  content: "🍎";
+}
+
+#grape::after {
+  content: "🍇";
+}
+
+#banana::after {
+  content: "🍌";
+}
+
+#fruits li::marker {
+
+  content: "✅";
+  
+}
+
+
+.dropdown {
+
+   display: inline-block;
+}
+
+.dropdown button {
+
+    background-color: rgb(235, 145, 145);
+    color: aliceblue;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.dropdown a {
+
+   display: block;
+   text-decoration: none;
+   color: green;
+   padding: 10px 10px;
+
+}
+
+.dropdown .content {
+  display: none;
+  position: absolute;
+  background-color: rgb(56, 17, 17);
+   min-width: 100px;
+   box-shadow: 2px 2px 5px black;
+}
+
+.dropdown:hover .content {
+
+   display: block;
+
+}
+
+.dropdown:hover button {
+
+   background-color: rgb(230, 68, 68);
+
+}
+
+.dropdown a:hover {
+
+   background-color: lightgreen;
+
+}
+
+
+
+body {
+
+  margin: 0px;
+
+}
+
+main {
+
+   margin: 20px;
+
+}
+
+h1 {
+
+  text-align: center;
+
+}
+
+
+.navbar ul {
+
+    list-style-type: none;
+    background-color: rgba(77, 203, 212, 0.871);
+    padding: 0px;
+     margin: 0px;
+     overflow: hidden;
+}
+
+.navbar a {
+
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+
+}
+
+.navbar a:hover {
+
+  background-color: rgb(23, 128, 199);
+
+}
+
+.navbar li {
+
+   float: left;
+
+} 
+
+
+.gallery {
+
+  display: inline-block;
+  border: 1px solid hsla(0, 3%, 55%, 0.356);
+  margin: 5px;
+  width: 200px;
+  
+}
+
+.gallery .description {
+
+  padding: 15px;
+  text-align: center;
+
+}
+
+.gallery:hover {
+
+  border: 2px solid hsl(0, 2%, 20%);
+
+}
+
+.gallery img {
+
+   width: 100%;
+   height: auto;
+
+}
+
+.container {
+
+  display: flex;
+  /* flex-direction: row; */
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column; */
+  /* flex-direction: column-reverse; */
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+   /* justify-content: center; */
+   /* justify-content: space-between; */
+   /* justify-content: space-evenly; 
+
+}
+
+.box {
+
+   width: 150px;
+   height: 150px;
+   font-size: 8em;
+   text-align: center;
+   border-radius: 5px;
+}
+
+#box1 {
+
+  background-color: hsl(138, 61%, 49%);
+
+}
+
+#box2 {
+
+  background-color: hsl(349, 92%, 45%);
+
+}
+
+#box3 {
+
+  background-color: hsl(187, 96%, 49%);
+
+}
+
+#box4 {
+
+  background-color: hsl(62, 93%, 50%);
+
+} 
+
+#box {
+
+ width: 250px;
+ height: 100px;
+ background-color: greenyellow;
+ font-size: 5em;
+ text-align: center;
+ /* animation-name: slideLeft; */
+ /* animation-name: slideRight; */
+ /* animation-name: slideUp; */
+ /* animation-name: slideDown; */
+ /* animation-name: rotateX; */
+ /* animation-name: rotateY; */
+ /* animation-name: rotateZ; */
+ /* animation-name: grow; */
+ /* animation-name: shrink; */
+ /* animation-name: fade; */
+ /* animation-name: colorChange; 
+ animation-name: glow;
+ animation-duration: 2s;
+}
+
+/* @keyframes slideLeft {
+from{transform: translateX(200%);}
+}
+
+@keyframes slideRight {
+  to{transform: translateX(300%);}
+}
+
+@keyframes slideUp {
+  from{transform: translateY(300%);}
+}
+
+@keyframes slideDown {
+  to{transform: translateY(300%);}
+}
+
+@keyframes rotateX {
+
+  100%{transform: rotateX(360deg);}
+
+}
+
+@keyframes rotateY {
+
+  100%{transform: rotateY(360deg);}
+
+}
+
+@keyframes rotateZ {
+
+  /* 100%{transform: rotateZ(360deg);}
+
+  50%{transform: rotateZ(360deg);}
+
+}
+
+@keyframes grow {
+
+  /* 100%{transform: scale(2, 2)} 
+ 
+  50%{transform: scale(2, 2)}
+
+}
+
+@keyframes shrink {
+
+  /* 100%{transform: scale(0.5, 0.5)} 
+ 
+  50%{transform: scale(0.5, 0.5)}
+
+}
+
+@keyframes fade {
+
+  /* 100%{opacity: 0;} 
+  50%{opacity: 0;}
+
+} */
+
+/* @keyframes colorChange {
+ 
+  0%{background-color:greenyellow}
+  20%{background-color: thistle}
+  40%{background-color: lightblue}
+  60%{background-color: green}
+  80%{background-color: purple}
+  100%{background-color: orange}
+
+}
+
+@keyframes glow {
+
+ 50%{box-shadow: 0px 0px 50px red;}
+
+} */
+
+
+
+
+
+
+
