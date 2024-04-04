@@ -14,10 +14,9 @@
 
 // let a;  Decalarization
 
-// a = 12 initialization 
- 
+// a = 12 initialization
 
-// let a = 12; // Decalarization + initialization. 
+// let a = 12; // Decalarization + initialization.
 
 // console.log(a);
 
@@ -29,14 +28,11 @@
 
 // age = age + 3;
 
-
-
 // console.log("Hello ", firstName);
 
 // console.log("Your age is ", age);
 
 // console.log("You have Enrolled:- ", student);
-
 
 // document.getElementById("p1").innerHTML = "Hello " + firstName;
 
@@ -44,7 +40,7 @@
 
 // document.getElementById("p3").innerHTML = "Enrolled:- " + student;
 
-//Arithemetic Expressions 
+//Arithemetic Expressions
 
 // it is combination of operands (values, variables, etc), operators (+ - * / % modulus)
 
@@ -57,9 +53,7 @@
 // let f = b / a;
 // let g = b % a;
 
-
-
-let students = 20;
+// let students = 20;
 
 // students = students + 1;
 
@@ -71,20 +65,17 @@ let students = 20;
 
 // students = students % 2;
 
-students += 1; // agumented assignment operator
+// students += 1; // agumented assignment operator
 
-students -= 1;
+// students -= 1;
 
-students *= 1;
+// students *= 1;
 
-students /= 1;
+// students /= 1;
 
-students %= 1;
+// students %= 1;
 
-console.log(students);
-
-
-
+// console.log(students);
 
 // console.log(c);
 
@@ -95,6 +86,72 @@ console.log(students);
 // console.log(f);
 
 // console.log(g);
+
+// let username = window.prompt("What is your Name?");
+
+// console.log(username);
+
+// let username;
+
+// document.getElementById("myButton").onclick = function() {
+
+//      username = document.getElementById("myText").value;
+
+//      console.log("Your name is", username);
+
+//      document.getElementById("myLabel").innerHTML = "Hello " + username;
+     
+// }
+
+// let age = window.prompt("How old are you?");
+
+
+// console.log(typeof age);
+
+// age = Number(age);
+
+// console.log(typeof age);
+
+// age += 1;
+
+// console.log("Happy Birthday You are", age, "years old");
+
+// let x; 
+
+// let y;
+
+// let z;
+
+// x = Number("3");
+
+// y = String(2.56);
+
+// z = Boolean("sathish");
+
+// console.log(typeof x, x);
+
+// console.log(typeof y, y);
+
+// console.log(typeof z, z);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

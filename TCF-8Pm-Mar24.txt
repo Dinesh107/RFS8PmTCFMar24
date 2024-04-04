@@ -1,0 +1,412 @@
+Day 1 - 8:00PM - IST - 26/02/2024.
+
+Role :- Software Developer Or Video Editor 
+
+Software :-  Set of Instructions, data, program used to operate computers and execute specific tasks.
+
+Types of Softwares 
+
+OS(Operating Systems) ---> C and C related Lang
+
+Desktop Softwares ----> C and Java
+
+Web Applications ----> Javascript, Python
+
+
+Domains in IT Industry
+
+Banking Domain
+
+Medical Domain
+
+Educational Domain
+
+Ecommerce Domain
+
+To develop the Softwares we need 3pillers
+
+UI/UX ---> Developers
+
+Figma 
+
+Frontend Development (HTML, CSS, JS) (REACT JS)
+
+Backend Development (Node JS) (Express JS)
+
+Database Management  (SQL)
+
+Day 2 - 8:00PM - IST - 27/02/2024.
+
+Frontend :- 
+
+HTML --> hyper text markup language
+
+CSS --> Cascading Styling Sheet 
+
+Javascript ---> to make a website dynamic.
+
+HTML :- 
+
+Web Browser, Text editor (Visual Studio Code)
+
+Header part 
+
+body part or body of the page
+
+Footer part 
+
+Project Explorer
+
+Extensions
+
+.cpp
+.py
+.js
+.html
+
+
+HTML 
+
+Tags 
+
+attributes 
+
+elements 
+
+<> ---> opening tag 
+
+</> ---> closing tag
+
+eg :- 
+
+<h1> Welcome to HTML </h1>
+
+
+Day 3 - 8:13PM - IST - 28/02/2024.
+
+Tags in HTML 
+
+Headers Tags 
+
+h1
+h2
+h3
+h4
+h5
+h6
+
+Paragraph ----> <p></p>
+
+line break ----> <br> ---> self closing tag
+
+Commenting ---> 
+
+<!--This is for reference purpose-->
+
+Hyperlinks
+
+anker tag ---> <a>  </a>
+
+Day 4 - 8:04PM - IST - 29/02/2024. 
+
+hyperlinks is digital reference to data that a user can follow  by clicking or taping a button or link.
+
+href ---> hypertestreference
+
+favicon.
+
+Day 5 - 8:24PM - IST - 04/03/2024.
+
+Text Format 
+
+Group Together HTML 
+
+span and div
+
+span ---> inline container to group the elements for styling
+
+div --> block level container to group elements for styling 
+
+List in HTML
+
+unordered lists.
+
+ordered lists.
+
+tables 
+
+
+Day 6 - 8:42PM - IST - 06/03/2024.
+
+Buttons 
+
+
+Day 7 - 8:00PM - IST - 07/03/2024. (Thursday)
+
+Headers and Footers
+
+Day 8 - 8:00PM - IST - 11/03/2024. (Monday)
+
+CSS ---> Cascading Styling Sheets
+
+Types of CSS
+
+Inline CSS
+
+Internal CSS 
+
+External CSS 
+
+
+id ---> styling the unique html elements 
+class ---> grouping and styling
+
+
+ 
+Day 9 - 8:00PM - IST - 12/03/2024. (Tuesday)
+
+Colour in CSS
+
+names, rgb values, hexadecimal, hsl
+
+Fonts 
+
+Borders in CSS
+
+
+Day 10 - 8:00PM - IST - 14/03/2024. (thursday)
+
+Shadows
+
+Text Shadow and Box Shadow
+
+Day 12 - 8:00PM - IST - 18/03/2024. (Monday)
+
+Margins - space around an element 
+Float - allows other elements to flow around it
+overflow 
+
+overflow: visible
+overflow: hidden
+overflow: scroll
+overflow: auto
+
+display --> property specifies if/how an element is displayed
+
+block-level ===> div, h1, p, header, footer
+
+inline ===> img, a, span
+
+Day 13 - 8:22PM - IST - 18/03/2024. (Tuesday)
+
+Positions :-
+
+Relative -->  Positioned relative to where it normally is.  
+Fixed --> positioned relative to the viewport
+Absolute ---> positioned relative to nearest ancestor
+sticky --> postioned based on scroll postion
+static --> default positions for an element
+
+Day 14 - 8:20PM - IST - 21/03/2024. (Thursday)
+
+Background Images
+
+Pseudo-classes :- 
+
+it is keywords which is added to selector where they modify behavior of the HTML element, when they are in certain state.
+
+* Not Pseudo-classes
+
+* nth child Pseudo-classes
+
+Pseudo-element --> it will help to style the specific html element
+
+Day 15 - 8:00PM - IST - 22/03/2024. (Friday)
+
+Dropdown menus
+
+navigation bar
+
+Day 17 - 8:00PM - IST - 27/03/2024. (Wednesday)
+
+animations 
+
+Day 18 - 8:00PM - IST - 27/03/2024. (Thursday)
+
+Javascript ---> It is web based programming language, which is used to add interactive behavior to webpages.
+
+we can build web and mobile application.
+
+create command line tools
+
+game developemnt
+
+Browser :- chrome
+
+Text Editor :- Vs Code
+
+
+DOM Page --> Document Object Model 
+
+Dev Tools --> Developer Tools
+
+
+Variables in Javascript :- 
+
+
+let, var, const 
+
+
+let a;
+
+
+Day 19 - 8:10PM - IST - 01/04/2024. (Monday).
+
+
+variables, arithemetic operators.
+
+
+Day 20 - 8:10PM - IST - 04/04/2024. (Tuesday).
+
+ User Input
+ two ways
+
+ Easy way with prompt alert
+
+
+ Difficult way with HTML textbox
+
+ Type Conversion :- change the data type of a value to another (String, numbers, booleans)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
