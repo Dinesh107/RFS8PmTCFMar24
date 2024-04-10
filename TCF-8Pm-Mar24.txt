@@ -266,7 +266,7 @@ Day 19 - 8:10PM - IST - 01/04/2024. (Monday).
 variables, arithemetic operators.
 
 
-Day 20 - 8:10PM - IST - 04/04/2024. (Tuesday).
+Day 20 - 8:10PM - IST - 04/04/2024. (Thursday).
 
  User Input
  two ways
@@ -277,6 +277,32 @@ Day 20 - 8:10PM - IST - 04/04/2024. (Tuesday).
  Difficult way with HTML textbox
 
  Type Conversion :- change the data type of a value to another (String, numbers, booleans)
+
+
+Day 21 - 8:10PM - IST - 04/04/2024. (Friday).
+
+const ---> variables that can't be changed
+
+String ---> collection of characters or series of characters 
+
+let userName = "Sathish";
+
+length --> starts from 1, let lenght = n = 7
+
+index --> 0 to n-1
+
+0 to 6
+
+Day 23 - 8:10PM - IST - 10/04/2024. (Wednesday).
+
+String slicing ---> it will extracts a section of a string and returns it as a new string without modifying the original string.
+
+Method Chaining --> calling one after another in one continous line of code.
+
+
+
+
+
 
 
 
