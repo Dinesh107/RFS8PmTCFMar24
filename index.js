@@ -135,6 +135,132 @@
 // console.log(typeof z, z);
 
 
+// const PI = 3.14159;
+
+// let radius;
+
+// let circumference;
+
+// radius = window.prompt("Enter the radius of a circle");
+
+// radius = Number(radius);
+
+// // PI = 489.544;
+
+// circumference = 2 * PI * radius;
+
+// console.log("The circumference of the circle is " + circumference);
+
+
+// let username  = "sathish Student";
+
+// let length = username.length;
+
+// console.log(length);
+
+// let characterMethod = username.charAt(2);
+
+// console.log(characterMethod);
+
+// let indexMethod = username.indexOf("s");
+
+// console.log(indexMethod);
+
+// let lastIndexMethod = username.lastIndexOf("s");
+
+// console.log(lastIndexMethod);
+
+// let trimFunc = username.trim();
+
+// console.log(username);
+
+// console.log(trimFunc);
+
+// let uc = username.toUpperCase();
+
+// console.log(uc);
+
+// let lc = username.toLowerCase();
+
+// console.log(lc);
+
+// let phoneNumber = "91-49494-93939";
+
+// phoneNumber = phoneNumber.replaceAll("-", "/");
+
+// console.log(phoneNumber);
+
+
+
+// let fullName = "Sathish Kumar";
+
+// let firstName;
+
+// let lastName;
+
+// firstName = fullName.slice(0, fullName.indexOf(" "));
+
+// lastName = fullName.slice(fullName.indexOf(" ") + 1);
+
+// // lastName = fullName.slice(8);
+
+// console.log(firstName);
+
+// console.log(lastName);
+
+// firstName = fullName.slice(0, 7);
+
+
+// let username = "sathish";
+
+// // let letter = username.charAt(0);
+
+// // letter = letter.toUpperCase();
+
+// let letter = username.charAt(0).toUpperCase();
+
+// console.log(letter);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
