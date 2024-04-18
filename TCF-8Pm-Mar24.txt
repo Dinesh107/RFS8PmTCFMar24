@@ -300,6 +300,95 @@ String slicing ---> it will extracts a section of a string and returns it as a n
 Method Chaining --> calling one after another in one continous line of code.
 
 
+Day 24 - 8:10PM - IST - 17/04/2024. (Wednesday).
+
+Conditional Statements -> a basic form of decision making, if a condition true, then execute the code, otherwise it will not execute the code.
+
+if statement 
+
+if else statement
+
+ladder statement or nested if or if else if statement 
+
+switch 
+
+Day 25 - 8:20PM - IST - 18/04/2024. (Thursday).
+
+
+control Statements or looping statements
+
+print 1 to 10 
+
+initialization ---> were we starts
+
+condition ----> were we stop the loop, if condition is true then the loop will run, otherwise the loop will stop.
+
+iteration ----> increase oo decrease 
+
+increment or decrement operator 
+
+i = i + 1 or i++  post increment
+
+i = i - 1 or i--  post decrement
+
+types of loops 
+
+Traditional Loops
+
+while loop --> entry control loop 
+                  
+do while loop ---> exit control loop
+
+for loop  ---> advanced loop
+
+nested for loop -----> advanced loop
+
+task 1 
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+task 2
+
+i
+i
+i
+i
+i
+j
+j
+j
+j
+j
+
+task 3 
+
+1
+1
+1
+1
+1
+v v v v v 
+
+
+task 4 
+
+* * * *
+
+! ! ! !
+
+
+
+
 
 
 
