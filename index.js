@@ -334,6 +334,59 @@
 //     document.write("<br>");
 // }
 
+// Break and Continue
+
+
+// for(let i = 1; i <= 10; i++) {
+
+//      if(i == 8) {
+
+//         break;
+
+//      }
+
+//      console.log(i);
+
+// }
+
+// for(let i = 1; i <= 10; i++) {
+
+//     if(i == 5) {
+
+//        continue;
+
+//     }
+
+//     console.log(i);
+
+// }
+
+// nested loop --> loops in another loop 
+
+
+
+//      1          2   8
+for(let i = 1; i <= 10; i++) { //i=3
+// 3
+
+//        4          5      7
+    for(let j = 1; j <= i; j++) { // 
+      //6
+
+        document.write("*"," ")
+
+    }
+
+    document.write("<br>");
+
+}
+
+
+
+
+
+
+
 
 
 
